@@ -21,7 +21,7 @@
 ## 🌟 Projetos Destacados
 ## 📈 Estatísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadnek&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadnek&layout=compact)
 
 ## 📫 Entre em Contato
 
