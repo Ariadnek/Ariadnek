@@ -1,7 +1,5 @@
 <!-- Bem-vindo ao Meu Universo 🚀 -->
 
-![Capa](https://user-images.githubusercontent.com/SeuNomeDeUsuario/AquiVaiORouteDaSuaImagem)
-
 ## Olá, Eu sou Ariadne 🌟
 
 🚀 Aprender é descobrir novos mundos
@@ -12,13 +10,14 @@
 
 ## ⚡ Tecnologias e Ferramentas
 
-![Tech Stack](https://user-images.githubusercontent.com/SeuNomeDeUsuario/AquiVaiORouteDoSeuTechStackImage)
+![Java] 5968343.png
+![Phyton] Python_icon_(black_and_white).svg.png
+![Eclipse] images.png
+![Visual Code Studio] logo@3x.png
+![SQL Server] png-transparent-microsoft-sql-server-microsoft-azure-sql-database-table-table-furniture-text-logo.png
+![Linux] 25719.png
+![Microsoft Windows] 3373461.png
 
-- JAVA, PHYTON
-- Visual Studio Code, IntelliJ IDEA, Azure Data Studio
-- SQL SERVER
-
-## 🌟 Projetos Destacados
 ## 📈 Estatísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadnek&layout=compact)
