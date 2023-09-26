@@ -10,13 +10,16 @@
 
 ## ⚡ Tecnologias e Ferramentas
 
-![Java] 5968343.png
-![Phyton] Python_icon_(black_and_white).svg.png
-![Eclipse] images.png
-![Visual Code Studio] logo@3x.png
-![SQL Server] png-transparent-microsoft-sql-server-microsoft-azure-sql-database-table-table-furniture-text-logo.png
-![Linux] 25719.png
-![Microsoft Windows] 3373461.png
+<div align="center">
+  <img src="https://github.com/Ariadnek/imagens/blob/main/images/5968343.png" alt="Java" width="50" height="50">
+  <img src="https://github.com/Ariadnek/imagens/blob/main/images/Python_icon_(black_and_white).svg.png" alt="Python" width="50" height="50">
+  <img src="https://github.com/Ariadnek/imagens/blob/main/images/images.png" alt="Eclipse" width="50" height="50">
+  <img src="https://github.com/Ariadnek/imagens/blob/main/images/logo@3x.png" alt="VisualCodeStudio" width="50" height="50">
+  <img src="https://github.com/Ariadnek/imagens/blob/main/images/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-table-table-furniture-text-logo.png" alt="SQLServer" width="50" height="50">
+  <img src="https://github.com/Ariadnek/imagens/blob/main/images/25719.png" alt="Linux" width="50" height="50">
+   <img src="https://github.com/Ariadnek/imagens/blob/main/3373461.png" alt="Windows" width="50" height="50">
+ 
+</div>
 
 ## 📈 Estatísticas
 
