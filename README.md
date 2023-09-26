@@ -19,18 +19,9 @@
 - SQL SERVER
 
 ## 🌟 Projetos Destacados
-
-🌟 [Projeto 1]: Uma breve descrição do projeto e um link para o repositório.
-  
-![Demo](https://user-images.githubusercontent.com/SeuNomeDeUsuario/AquiVaiORouteDaSuaImagemDoProjeto)
-
-🌟 [Projeto 2]: Uma breve descrição do projeto e um link para o repositório.
-  
-![Demo](https://user-images.githubusercontent.com/SeuNomeDeUsuario/AquiVaiORouteDaSuaImagemDoProjeto)
-
 ## 📈 Estatísticas
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadnek&layout=compact)]
 
 ## 📫 Entre em Contato
 
