@@ -1,6 +1,6 @@
 <!-- Bem-vindo ao Meu Universo 🚀 -->
 
-## Olá, Eu sou Ariadne 🌟
+## Olá, Eu sou a Ariadne 
 
 🚀 Aprender é descobrir novos mundos
 💡 Explorando o cosmos do código
