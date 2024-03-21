@@ -13,10 +13,10 @@
 ## 📈 Estatísticas
 
 <a href="https://github.com/Ariadnek/github-readme-stats">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=Ariadnek&layout=compact&langs_count=16&theme=radical" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=Ariadnek&layout=compact&langs_count=16&theme=radical" />
 </a>
 <a href="https://github.com/Ariadnek/convoychat">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ariadnek&layout=compact&langs_count=16&theme=radical" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ariadnek&layout=compact&langs_count=16&theme=radical" />
 </a>
 
 
