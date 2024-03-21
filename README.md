@@ -8,22 +8,44 @@
  
 🌱 Atualmente, estou aprendendo e me desenvolvendo em aréas de beck-end como Java, Phyton e outros.
 
-## ⚡ Tecnologias e Ferramentas
+## ⚡ Tecnologias
 
-<div align="center">
-  <img src="https://github.com/Ariadnek/imagens/blob/main//5968343.png" alt="Java" width="50" height="50">
-  <img src="https://github.com/Ariadnek/imagens/blob/main//Python_icon_(black_and_white).svg.png" alt="Python" width="50" height="50">
-  <img src="https://github.com/Ariadnek/imagens/blob/main//images.png" alt="Eclipse" width="50" height="50">
-  <img src="https://github.com/Ariadnek/imagens/blob/main//logo@3x.png" alt="VisualCodeStudio" width="50" height="50">
-  <img src="https://github.com/Ariadnek/imagens/blob/main//png-transparent-microsoft-sql-server-microsoft-azure-sql-database-table-table-furniture-text-logo.png" alt="SQLServer" width="50" height="50">
-  <img src="https://github.com/Ariadnek/imagens/blob/main//25719.png" alt="Linux" width="50" height="50">
-   <img src="https://github.com/Ariadnek/imagens/blob/main/3373461.png" alt="Windows" width="50" height="50">
+   <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ari-java" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Ari-MYsql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ari-MYsql" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+
+ ## ⚡ Ferramentas
+ <div style="display: inline_block"><br>
+<img align="center" alt="Ari-PowerShell" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+<img align="center" alt="Ari-GIT" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="center" alt="Ari-intelijj" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<img align="center" alt="Ari-W11" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+<img align="center" alt="Ari-W11" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+<img align="center" alt="Ari-W11" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
+          
+                    
+                   
+ 
+          
+          
+          
+          
+</div>
  
 </div>
 
 ## 📈 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadnek&layout=compact)
+<a href="https://github.com/Ariadnek/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ariadnek&layout=compact&langs_count=16&theme=radical" />
+</a>
+<a href="https://github.com/Ariadnek/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ariadnek&layout=compact&langs_count=16&theme=radical" />
+</a>
 
 ## 📫 Entre em Contato
 
