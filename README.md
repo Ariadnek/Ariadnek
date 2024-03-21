@@ -8,6 +8,18 @@
  
 🌱 Atualmente, estou aprendendo e me desenvolvendo em aréas de beck-end como Java, Phyton e outros.
 
+</div>
+
+## 📈 Estatísticas
+
+<a href="https://github.com/Ariadnek/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ariadnek&layout=compact&langs_count=16&theme=radical" />
+</a>
+<a href="https://github.com/Ariadnek/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ariadnek&layout=compact&langs_count=16&theme=radical" />
+</a>
+
+
 ## ⚡ Tecnologias
 
    <div style="display: inline_block"><br>
@@ -25,28 +37,10 @@
 <img align="center" alt="Ari-W11" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img align="center" alt="Ari-W11" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 <img align="center" alt="Ari-W11" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-          
-          
-                    
-                   
- 
-          
-          
-          
+            
           
 </div>
  
-</div>
-
-## 📈 Estatísticas
-
-<a href="https://github.com/Ariadnek/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ariadnek&layout=compact&langs_count=16&theme=radical" />
-</a>
-<a href="https://github.com/Ariadnek/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ariadnek&layout=compact&langs_count=16&theme=radical" />
-</a>
-
 ## 📫 Entre em Contato
 
 - 📧 ariadnekellyd@hotmail.com
