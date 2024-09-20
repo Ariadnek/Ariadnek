@@ -1,12 +1,9 @@
-<!-- Bem-vindo ao Meu Universo 🚀 -->
+<!-- Bem-vindo 🚀 -->
 
 ## Olá, Eu sou a Ariadne 
-
-🚀 Aprender é descobrir novos mundos
-💡 Explorando o cosmos do código
-📚 Analise e desenvolvimento de sistemas
  
-🌱 Atualmente, estou aprendendo e me desenvolvendo em aréas de beck-end como Java, Phyton e outros.
+ Atualmente, estou aprendendo e me desenvolvendo em aréas de beck-end como Java, Phyton e outros.
+ Além de me desenvolver em aplicações de banco de dados.
 
 </div>
 
