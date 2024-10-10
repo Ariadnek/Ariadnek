@@ -2,8 +2,8 @@
 
 ## Olá, Eu sou a Ariadne 
  
- Atualmente, estou aprendendo e me desenvolvendo em aréas de beck-end como Java, Phyton e outros.
- Além de me desenvolver em aplicações de banco de dados.
+ Atualmente, estou aprendendo e me desenvolvendo em aréas de beck-end como Java, Phyton e C#.
+ Além de me desenvolver em aplicações de banco de dados e APIS.
 
 </div>
 
